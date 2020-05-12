@@ -15,6 +15,7 @@
 		FD2C1E56246AE9B7001CD537 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD2C1E54246AE9B7001CD537 /* LaunchScreen.storyboard */; };
 		FD2C1E61246AE9B8001CD537 /* Count2ndTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2C1E60246AE9B8001CD537 /* Count2ndTests.swift */; };
 		FD2C1E6C246AE9B8001CD537 /* Count2ndUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2C1E6B246AE9B8001CD537 /* Count2ndUITests.swift */; };
+		FD2C1E7A246AF497001CD537 /* shutterstock_754748302-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD2C1E79246AF497001CD537 /* shutterstock_754748302-1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FD2C1E67246AE9B8001CD537 /* Count2ndUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count2ndUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD2C1E6B246AE9B8001CD537 /* Count2ndUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count2ndUITests.swift; sourceTree = "<group>"; };
 		FD2C1E6D246AE9B8001CD537 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD2C1E79246AF497001CD537 /* shutterstock_754748302-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "shutterstock_754748302-1.jpg"; path = "../../../../../Desktop/shutterstock_754748302-1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		FD2C1E48246AE9B4001CD537 /* Count2nd */ = {
 			isa = PBXGroup;
 			children = (
+				FD2C1E79246AF497001CD537 /* shutterstock_754748302-1.jpg */,
 				FD2C1E49246AE9B4001CD537 /* AppDelegate.swift */,
 				FD2C1E4B246AE9B4001CD537 /* SceneDelegate.swift */,
 				FD2C1E4D246AE9B4001CD537 /* ViewController.swift */,
@@ -235,6 +238,7 @@
 				FD2C1E56246AE9B7001CD537 /* LaunchScreen.storyboard in Resources */,
 				FD2C1E53246AE9B7001CD537 /* Assets.xcassets in Resources */,
 				FD2C1E51246AE9B4001CD537 /* Main.storyboard in Resources */,
+				FD2C1E7A246AF497001CD537 /* shutterstock_754748302-1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
