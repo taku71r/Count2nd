@@ -101,7 +101,6 @@
 		FD2C1E48246AE9B4001CD537 /* Count2nd */ = {
 			isa = PBXGroup;
 			children = (
-				FD2C1E79246AF497001CD537 /* shutterstock_754748302-1.jpg */,
 				FD2C1E49246AE9B4001CD537 /* AppDelegate.swift */,
 				FD2C1E4B246AE9B4001CD537 /* SceneDelegate.swift */,
 				FD2C1E4D246AE9B4001CD537 /* ViewController.swift */,
@@ -109,6 +108,7 @@
 				FD2C1E52246AE9B7001CD537 /* Assets.xcassets */,
 				FD2C1E54246AE9B7001CD537 /* LaunchScreen.storyboard */,
 				FD2C1E57246AE9B8001CD537 /* Info.plist */,
+				FD2C1E79246AF497001CD537 /* shutterstock_754748302-1.jpg */,
 			);
 			path = Count2nd;
 			sourceTree = "<group>";
